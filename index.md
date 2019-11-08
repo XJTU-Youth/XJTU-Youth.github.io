@@ -28,7 +28,7 @@
 编辑 | 电子邮箱
 ----- | --------
 党一桐 | tomdang@tsinghuamakerxian.cn
-赵誉博 | null@null.com
+赵誉博 | 2321759131@qq.com
 
 ---
 
