@@ -8,26 +8,25 @@ permalink: /index.html
 
 # 西马少年  Xima Youth
 
-**西安交通大学少年班苏州中学园区校少科班发行的杂志  A magazine published by XJTU Gifted Youth Program**
+***西安交通大学少年班苏州中学园区校少科班发行的杂志  A magazine published by XJTU Gifted Youth Program***
 
 ---
 
 ## 投稿方法：
 
-* 发送电子邮件至 tomdang@tsinghuamakerxian.cn
-* Commit你的来稿到我们的GitHub仓库，放入以你名字命名的Branch
+* **发送电子邮件至 *tomdang@tsinghuamakerxian.cn***
+* ***Commit*你的来稿到我们的*GitHub*仓库，放入以你名字命名的*Branch***
 
 ---
 
 ## 来稿范围：
 
-1. 学术文章
+1. **学术文章**
 
-2. 生活趣闻
+2. **生活趣闻**
 
-3. 技术教学
-
-   * 其余可咨询编辑 
+3. **技术教学**
+* ***其余可咨询编辑*** 
 
 编辑 | 电子邮箱
 ----- | --------
