@@ -39,4 +39,6 @@ permalink: /index.html
 
 ## 网站导航
 
+[主页](/)
+
 [电子版杂志](/megazine/)
