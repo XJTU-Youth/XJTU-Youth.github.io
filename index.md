@@ -25,13 +25,10 @@
 
    * 其余可咨询编辑 
 
-     编辑 | 电子邮箱
-
-     ---- | --------
-
-     党一桐 | tomdang@tsinghuamakerxian.cn
-
-     赵誉博 | null@null.com
+编辑 | 电子邮箱
+----- | --------
+党一桐 | tomdang@tsinghuamakerxian.cn
+赵誉博 | null@null.com
 
 ---
 
