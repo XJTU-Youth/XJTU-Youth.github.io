@@ -15,7 +15,7 @@ permalink: /index.html
 ## 投稿方法：
 
 * **发送电子邮件至 *tomdang@tsinghuamakerxian.cn***
-* ***Commit*你的来稿到我们的*GitHub*仓库，放入以你名字命名的*Branch***
+* ***Commit*你的来稿到我们的[*GitHub*仓库]( https://github.com/XJTU-Youth/Megazine-Resources )，放入以你名字命名的*Branch***
 
 ---
 
