@@ -16,7 +16,7 @@ typora-copy-images-to: image
 ## 投稿方法：
 
 * **发送电子邮件至 *tomdang@tsinghuamakerxian.cn***
-* **参看[这里](/Megazine-Resources)**
+* **参看[*这里*(西马少年投稿站)](/Megazine-Resources)**
 
 ---
 
