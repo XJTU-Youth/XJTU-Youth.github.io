@@ -1,9 +1,14 @@
-#西马少年
+# 西马少年
 
-##西安交通大学少年班苏州中学园区校少科班发行的杂志
+## 西安交通大学少年班苏州中学园区校少科班发行的杂志
 
-##Xima Youth
+## Xima Youth
 
-###A magazine published by XJTU Gifted Youth Program
+### A magazine published by XJTU Gifted Youth Program
+
+---
+
+### 投稿方法：
+发送电子邮件至 tomdang@tsinghuamakerxian.cn
 
 ---
