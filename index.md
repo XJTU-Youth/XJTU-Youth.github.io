@@ -1,5 +1,6 @@
 ---
 permalink: /index.html
+typora-copy-images-to: image
 ---
 
 
@@ -15,7 +16,7 @@ permalink: /index.html
 ## 投稿方法：
 
 * **发送电子邮件至 *tomdang@tsinghuamakerxian.cn***
-* ***Commit*你的来稿到我们的[*GitHub*仓库]( https://github.com/XJTU-Youth/Megazine-Resources )，放入以你名字命名的*Branch***
+* **参看[这里](/Megazine-Resources)**
 
 ---
 
@@ -24,9 +25,8 @@ permalink: /index.html
 1. **学术文章**
 
 2. **生活趣闻**
-
 3. **技术教学**
-* ***其余可咨询编辑*** 
+   * ***其余可咨询编辑*** 
 
 编辑 | 电子邮箱
 ----- | --------
