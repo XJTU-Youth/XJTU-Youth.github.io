@@ -15,8 +15,8 @@ typora-copy-images-to: image
 
 ## 投稿方法：
 
-* **发送电子邮件至 *tomdang@tsinghuamakerxian.cn***
-* **参看[*这里*(西马少年投稿站)](/Megazine-Resources)**
+* **发送电子邮件给编辑**
+  * **参看[*这里*(西马少年投稿站)](/Megazine-Resources)**
 
 ---
 
@@ -28,11 +28,11 @@ typora-copy-images-to: image
 3. **技术教学**
    * ***其余可咨询编辑*** 
 
-编辑 | 电子邮箱
------ | --------
-党一桐 | tomdang@tsinghuamakerxian.cn
-赵誉博 | 2321759131@qq.com
-孙仲俭 | 1984986083@qq.com
+  编辑 |            电子邮箱           | 栏目
+------ | --------------------------- | -----
+党一桐 | tomdang@tsinghuamakerxian.cn | 学术论文
+赵誉博 |            2321759131@qq.com | 技术教程
+孙仲俭 |            1984986083@qq.com | 文学美图
 
 <!--(其实我们也不正经)-->
 
