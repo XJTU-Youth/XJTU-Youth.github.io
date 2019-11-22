@@ -13,6 +13,10 @@ typora-copy-images-to: image
 
 ---
 
+## 定价
+
+每册30￥，每一至两月出版一期
+
 ## 投稿方法：
 
 * **发送电子邮件至 *tomdang@tsinghuamakerxian.cn***
