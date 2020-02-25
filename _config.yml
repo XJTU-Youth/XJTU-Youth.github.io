@@ -1,5 +1,118 @@
-theme: jekyll-theme-slate
-title: 西马少年杂志社
-description: 西安交通大学少年班班刊
+## 网站设置
+# 标题
+title: NaiveTomcat-AKA Trimethyldopa
+# 选项卡标题
+SEOTitle: 党一桐的博客 | NaiveTomcat's Blog
+# 首页背景图片
+header-img: blog/img/post-bg-debug.png
+# 邮箱设置
+email: tomdang@tsinghuamakerxian.cn
+# 网站介绍
+description: "I guess it comes down to a simple choice:get busy living or get busy dying."
+# 关键词
+keyword: "Maker, XJTU, XJTU-Youth, Deep Learning, living, coding, test"
+# 博客访问链接
+url: "https://www.tsinghuamakerxian.cn/blog"
+# '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"
+
+## 侧边栏设置
+# 是否开启侧边栏 true 开始 false 关闭
+sidebar: true
+# 侧边栏描述语句
+sidebar-about-description: "知识就是力量。"
+# 侧边栏头像
+sidebar-avatar: /blog/img/sidebar-avatar.jpg
+
+## 社交网站设置
+RSS: false
+# 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
+#weibo_username:     5089298519
+# 知乎个人页面 填写用户名
+zhihu_username:     77d75b0d2eae8592ae1365e1005184a8
+# GitHub个人页面 填写用户名
+github_username:    NaiveTomcat
+# facebook个人页面 填写用户名
+#facebook_username:  100024292873470
+# 简书个人页面截取用户编号 与微博同理
+#jianshu_username:   56a2c6b6027c
+# twitter个人页面 填写用户名
+twitter_username:   NaiveTomcat
+
+## 构建设置
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+## Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+## Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
 kramdown:
-    input: GFM
+  input: GFM                            # use Github Flavored Markdown !important
+
+## 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: superZhoudalu
+
+## Gitalk
+gitalk:
+  #是否开启Gitalk评论
+  enable: true
+  #生成的clientID
+  clientID: 12a6f8e3f6cb6c7928ff
+  #生成的clientSecret
+  clientSecret: fcf3b06a658e094dfca3fe76a55def41f325f07a
+  #仓库名称
+  repo: blog
+  #github用户名
+  owner: NaiveTomcat
+  admin: NaiveTomcat
+  #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true
+
+## 统计
+# Baidu Analytics
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+
+# Google Analytics
+ga_track_id: UA-156659734-2
+# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: www.tsinghuamakerxian.cn/blog
+
+## 标签设置
+# 是否使用首页标签
+featured-tags: true
+# 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+## 友情链接
+friends: [
+   {
+        title: "Apple",
+        href: "https://apple.com"
+    },{
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
+    },{
+        title: "灵魂只应独行",
+        href: "https://puppetsheep.cn"
+    },{
+        title: "Evil binary",
+        href: "https://evil-binary.github.io"
+    },{
+        title: "SAGIRI",
+        href: "https://blog.sagiri-web.com"
+    }
+]
