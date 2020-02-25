@@ -22,7 +22,7 @@ sidebar: true
 # 侧边栏描述语句
 sidebar-about-description: "知识就是力量。"
 # 侧边栏头像
-sidebar-avatar: /blog/img/sidebar-avatar.jpg
+sidebar-avatar: /img/sidebar-avatar.jpg
 
 ## 社交网站设置
 RSS: false
