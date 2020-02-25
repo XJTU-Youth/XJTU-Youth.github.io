@@ -1,8 +1,8 @@
 ## 网站设置
 # 标题
-title: NaiveTomcat-AKA Trimethyldopa
+title: 西安交通大学少年班苏州预科班
 # 选项卡标题
-SEOTitle: 党一桐的博客 | NaiveTomcat's Blog
+SEOTitle: 交大少年班苏州预科班
 # 首页背景图片
 header-img: blog/img/post-bg-debug.png
 # 邮箱设置
@@ -12,9 +12,9 @@ description: "I guess it comes down to a simple choice:get busy living or get bu
 # 关键词
 keyword: "Maker, XJTU, XJTU-Youth, Deep Learning, living, coding, test"
 # 博客访问链接
-url: "https://www.tsinghuamakerxian.cn/blog"
+url: "https://xjtu-youth.top/"
 # '/blog' if your blog hosted on 'host/blog'
-baseurl: "/blog"
+baseurl: ""
 
 ## 侧边栏设置
 # 是否开启侧边栏 true 开始 false 关闭
@@ -29,15 +29,15 @@ RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
 #weibo_username:     5089298519
 # 知乎个人页面 填写用户名
-zhihu_username:     77d75b0d2eae8592ae1365e1005184a8
+#zhihu_username:     77d75b0d2eae8592ae1365e1005184a8
 # GitHub个人页面 填写用户名
-github_username:    NaiveTomcat
+github_username:    XJTU-Youth
 # facebook个人页面 填写用户名
 #facebook_username:  100024292873470
 # 简书个人页面截取用户编号 与微博同理
 #jianshu_username:   56a2c6b6027c
 # twitter个人页面 填写用户名
-twitter_username:   NaiveTomcat
+#twitter_username:   NaiveTomcat
 
 ## 构建设置
 permalink: pretty
@@ -83,9 +83,9 @@ gitalk:
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: UA-156659734-2
+#ga_track_id: UA-156659734-2
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: www.tsinghuamakerxian.cn/blog
+#ga_domain: www.tsinghuamakerxian.cn/blog
 
 ## 标签设置
 # 是否使用首页标签
@@ -98,21 +98,21 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 ## 友情链接
-friends: [
-   {
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    },{
-        title: "灵魂只应独行",
-        href: "https://puppetsheep.cn"
-    },{
-        title: "Evil binary",
-        href: "https://evil-binary.github.io"
-    },{
-        title: "SAGIRI",
-        href: "https://blog.sagiri-web.com"
-    }
-]
+# friends: [
+#    {
+#         title: "Apple",
+#         href: "https://apple.com"
+#     },{
+#         title: "Apple Developer",
+#         href: "https://developer.apple.com/"
+#     },{
+#         title: "灵魂只应独行",
+#         href: "https://puppetsheep.cn"
+#     },{
+#         title: "Evil binary",
+#         href: "https://evil-binary.github.io"
+#     },{
+#         title: "SAGIRI",
+#         href: "https://blog.sagiri-web.com"
+#     }
+# ]
