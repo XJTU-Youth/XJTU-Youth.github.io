@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1 user-scalable=no">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <meta class='theme-color' name="theme-color" content="#f3f8fb" />
+  <!-- Windows Phone -->
+  <meta class='theme-color' name="msapplication-navbutton-color" content="#f3f8fb">
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta class='theme-color' name="apple-mobile-web-app-status-bar-style" content="#f3f8fb">
+  <meta name="description" content="武汉肺炎｜新型肺炎｜新型冠状病毒｜2019-nCoV疫情实时播报🅥" />
+  <title>2019-nCoV疫情实时播报🅥</title>
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but news doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+  <script>
+    if (/netlify\.com/.test(location.href)) {
+      location.href = 'http://2019ncov.tk';
+    }
+  </script>
+  <script>
+    (function (e, t, n, i, s, a, c) {
+      e[n] = e[n] || function () { (e[n].q = e[n].q || []).push(arguments) }
+        ; a = t.createElement(i); c = t.getElementsByTagName(i)[0]; a.async = true; a.src = s
+        ; c.parentNode.insertBefore(a, c)
+    })(window, document, "galite", "script", "https://cdn.jsdelivr.net/npm/ga-lite@2/dist/ga-lite.min.js");
+
+    galite('create', 'UA-156916001-1', 'auto');
+    galite('send', 'pageview');
+  </script>
+</body>
+
+</html>
