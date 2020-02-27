@@ -103,20 +103,4 @@ friends: [
         title: "西安交通大学"
         href: "https://www.xjtu.edu.cn"
     }
-#    {
-#         title: "Apple",
-#         href: "https://apple.com"
-#     },{
-#         title: "Apple Developer",
-#         href: "https://developer.apple.com/"
-#     },{
-#         title: "灵魂只应独行",
-#         href: "https://puppetsheep.cn"
-#     },{
-#         title: "Evil binary",
-#         href: "https://evil-binary.github.io"
-#     },{
-#         title: "SAGIRI",
-#         href: "https://blog.sagiri-web.com"
-#     }
 ]
