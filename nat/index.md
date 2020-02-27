@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+date: 2020-02-27
+author: 吴尚恩
 ---
 
 # 学术网络连接工具
