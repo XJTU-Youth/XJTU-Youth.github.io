@@ -4,9 +4,9 @@ title: 西安交通大学少年班苏州预科班
 # 选项卡标题
 SEOTitle: 交大少年班苏州预科班
 # 首页背景图片
-header-img: blog/img/post-bg-debug.png
+header-img: /img/hobble.png
 # 邮箱设置
-email: tomdang@tsinghuamakerxian.cn
+email: tomdang@xjtu-youth.top
 # 网站介绍
 description: "I guess it comes down to a simple choice:get busy living or get busy dying."
 # 关键词
@@ -25,7 +25,7 @@ sidebar-about-description: "知识就是力量。"
 sidebar-avatar: /img/sidebar-avatar.jpg
 
 ## 社交网站设置
-RSS: false
+RSS: true
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
 #weibo_username:     5089298519
 # 知乎个人页面 填写用户名
@@ -98,7 +98,11 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 ## 友情链接
-# friends: [
+friends: [
+    {
+        title: "西安交通大学"
+        href: "https://www.xjtu.edu.cn"
+    }
 #    {
 #         title: "Apple",
 #         href: "https://apple.com"
@@ -115,4 +119,4 @@ service-worker: true
 #         title: "SAGIRI",
 #         href: "https://blog.sagiri-web.com"
 #     }
-# ]
+]
