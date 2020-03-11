@@ -83,9 +83,9 @@ gitalk:
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-#ga_track_id: UA-156659734-2
+ga_track_id: UA-156659734-3
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-#ga_domain: www.tsinghuamakerxian.cn/blog
+ga_domain: https://xjtu-youth.top
 
 ## 标签设置
 # 是否使用首页标签
@@ -94,13 +94,13 @@ featured-tags: true
 featured-condition-size: 0
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#2255FF"
 service-worker: true
 
 ## 友情链接
-#friends: [
-#    {
-#        title: "西安交通大学"
-#        href: "https://www.xjtu.edu.cn"
-#    }
-#]
+friends: [
+    {
+        title: "西安交通大学"
+        href: "https://www.xjtu.edu.cn"
+    }
+]
