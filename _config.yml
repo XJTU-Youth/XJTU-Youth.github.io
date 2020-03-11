@@ -98,9 +98,9 @@ chrome-tab-theme-color: "#2255FF"
 service-worker: true
 
 ## 友情链接
-friends: [
-    {
-        title: "西安交通大学"
-        href: "https://www.xjtu.edu.cn"
-    }
-]
+#friends: [
+#    {
+#        title: "西安交通大学"
+#        href: "https://www.xjtu.edu.cn"
+#    }
+#]
