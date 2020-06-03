@@ -26,6 +26,7 @@
 	bottom: -1000px;
 	left: 0;
 	line-height: 0;
+	margin-bottom: -10px;
 	position: fixed;
 	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
@@ -34,12 +35,6 @@
 
 #waifu:hover {
 	transform: translateY(0);
-}
-
-@media (max-width: 768px) {
-	#waifu {
-		display: none;
-	}
 }
 
 #waifu-tips {
@@ -73,7 +68,9 @@
 
 #waifu #live2d {
 	cursor: grab;
+	height: 300px;
 	position: relative;
+	width: 300px;
 }
 
 #waifu #live2d:active {
@@ -94,7 +91,7 @@
 }
 
 #waifu-tool span {
-	color: #5b6c7d;
+	color: #7b8c9d;
 	cursor: pointer;
 	display: block;
 	line-height: 30px;
